@@ -20,7 +20,7 @@ class Dog
   
   def breed
     
-    @breed
+  puts @breed
     
   end
   
