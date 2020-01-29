@@ -14,13 +14,13 @@ class Dog
   
   def breed=(breed)
     
-    @bredd = breed
+    @breed=breed
     
   end
   
   def breed
     
-  puts @breed
+        @breed
     
   end
   
