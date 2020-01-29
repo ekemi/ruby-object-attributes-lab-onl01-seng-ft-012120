@@ -12,9 +12,9 @@ class Dog
     
   end
   
-  def breed=(Beagle)
+  def breed=(breed)
     
-    @bredd = Beagle
+    @bredd = breed
     
   end
   
