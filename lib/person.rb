@@ -13,11 +13,12 @@ end
 
 def job=(Job)
   
-  @job = job
+  @job = Job
   
 end
 
 def job
+  
   @job
   
 end
