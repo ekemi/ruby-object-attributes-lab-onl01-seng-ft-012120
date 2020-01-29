@@ -11,9 +11,9 @@ def name
   
 end
 
-def job=(Job)
+def job=(job1)
   
-  @job = Job
+  @job = job1
   
 end
 
